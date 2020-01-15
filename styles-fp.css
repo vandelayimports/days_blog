@@ -1,0 +1,18 @@
+h1 {
+    color: orange;
+  }
+  
+  h2 {
+    color: chartreuse;
+    font-style: italic;
+    text-align: center;
+  }
+  
+  p {
+    font-family: sans-serif;
+  }
+  
+  ul {
+    font-size: 20px;
+    line-height: 30px;
+  }
